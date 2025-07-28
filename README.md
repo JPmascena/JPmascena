@@ -5,11 +5,8 @@
 <p align="left">I'm just a data student with a lot of curiosity and a passion for turning information into practical and visual projects. I enjoy learning by doing — exploring real-world datasets, building dashboards, and applying analysis techniques to uncover insights that make sense in the real world.</p>
 
 ###
-
 <br clear="both">
-
 <h3 align="left">Main technologies:</h3>
-
 ###
 
 <div align="left">
