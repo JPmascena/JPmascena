@@ -7,9 +7,6 @@
 - 💼 Estagiariario como analista de dados no Itau.
 - 🌱 Aprendendo mais sobre tecnoloogias encvolvendo machine learning.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPmascena&show_icons=true&theme=radical)
-
-
 
 ## Minhas Skills
 
