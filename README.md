@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento Sistemas na FATEC-SP.
-- 💼 Estagiariario como analista de dados no Itau.
-- 🌱 Aprendendo mais sobre tecnoloogias encvolvendo machine learning.
+- Explorando novas tecnologias e desenvolvendo soluções de software.
+- Estudando Análise e Desenvolvimento Sistemas na FATEC-SP.
+- Estagiariario como analista de dados no Itau.
+- Aprendendo mais sobre tecnoloogias encvolvendo machine learning.
 
 
 ## Minhas Skills
